@@ -1,0 +1,1 @@
+/* Creates & Registers location as a valid taxonomy for sermons
